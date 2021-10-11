@@ -1,5 +1,6 @@
-## Residual-Guided In-Loop Filter Using Convolution Neural Network
-## W. Jia, L. Li, Z. Li, X. Zhang, and S. Liu. " Residual-Guided In-Loop Filter Using Convolution Neural Network," In ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021, Accepted.
+# Residual-Guided In-Loop Filter Using Convolution Neural Network
+
+W. Jia, L. Li, Z. Li, X. Zhang, and S. Liu. " Residual-Guided In-Loop Filter Using Convolution Neural Network," In ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021, Accepted.
 
 https://arxiv.org/abs/1907.12681
 
@@ -10,4 +11,3 @@ Reference software is useful in aiding users of a video coding standard to estab
 The software has been jointly developed by the ITU-T Video Coding Experts Group (VCEG, Question 6 of ITU-T Study Group 16) and the ISO/IEC Moving Picture Experts Group (MPEG, Working Group 11 of Subcommittee 29 of ISO/IEC Joint Technical Committee 1).
 
 A software manual, which contains usage instructions, can be found in the "doc" subdirectory of this software package.
-
