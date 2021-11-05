@@ -1,4 +1,6 @@
-# Residual-Guided In-Loop Filter Using Convolution Neural Network [bib](http://w.web.umkc.edu/wj3wr/bibTOMM.txt) [pdf](http://w.web.umkc.edu/wj3wr/IJCV.pdf)
+# Residual-Guided In-Loop Filter Using Convolution Neural Network 
+
+[[bib]](http://w.web.umkc.edu/wj3wr/bibTOMM.txt) [[pdf]](http://w.web.umkc.edu/wj3wr/IJCV.pdf)
 
 W. Jia, L. Li, Z. Li, X. Zhang, and S. Liu. " Residual-Guided In-Loop Filter Using Convolution Neural Network," In ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021, Accepted.
 
