@@ -2,9 +2,9 @@
 
 [[bib]](http://w.web.umkc.edu/wj3wr/bibTOMM.txt) [[pdf]](http://w.web.umkc.edu/wj3wr/TOMM.pdf)
 
-W. Jia, L. Li, Z. Li, X. Zhang, and S. Liu. " Residual-Guided In-Loop Filter Using Convolution Neural Network," In ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021, Accepted.
+W. Jia, L. Li, Z. Li, X. Zhang, and S. Liu. " Residual-Guided In-Loop Filter Using Convolution Neural Network," In ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021.
 
-https://arxiv.org/abs/1907.12681
+https://dl.acm.org/doi/full/10.1145/3460820
 
 This software package is the reference software for Rec. ITU-T H.265 | ISO/IEC 23008-2 High efficiency video coding (HEVC). The reference software includes both encoder and decoder functionality.
 
